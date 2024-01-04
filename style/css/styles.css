@@ -23,6 +23,8 @@ body {
 .header_text {
     font-family: 'Nunito';
     font-size: 50px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px;
     font-weight: bold;
     color: #F6E6F7;
     text-align: center;
